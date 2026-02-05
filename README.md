@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Nice to meet you!
 
 <!--
 **sydneykem/sydneykem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 About Me
 
-👋 My name is Sydney
-I am a senior studying Computer Engineering. 
+👋 My name is Sydney. 
+I am a senior studying Computer Engineering and will graduate in May. 
 I like to read books and go to concerts. 
 My areas of interest are FPGA prototyping, embedded systems programming, and hardware verification. 
