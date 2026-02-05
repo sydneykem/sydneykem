@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 About Me
 
 👋 My name is Sydney
+I am a senior studying Computer Engineering. 
+I like to read books and go to concerts. 
+My areas of interest are FPGA prototyping, embedded systems programming, and hardware verification. 
